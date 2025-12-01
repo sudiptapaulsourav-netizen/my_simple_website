@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+div{
+    background-color: aqua;
+    font-style: italic;
+    color: black;
+    border: 20px solid salmon;
+    border-radius: 15px;
+    margin: 10px 12px 15px 18px;
+}
+.foot{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+}
